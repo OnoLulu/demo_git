@@ -1,2 +1,2 @@
-alert("Hello")
-alert("Bonjour")
+var message = "hello!"
+alert(message)
